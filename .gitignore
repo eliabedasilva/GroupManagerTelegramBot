@@ -1,0 +1,5 @@
+credentials.py
+settings.json
+
+*.pyc
+__pycache__/
